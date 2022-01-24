@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Seraj
-- 👀 I’m interested in knowledge extraction from complex network structure
-- 🌱 I’m currently learning various algorithms and structures
+- 👋 Hi, this is Seraj
+- 👀 I’m interested in knowledge extraction from complex data source (i.e., image, data structure)
+- 🌱 I’m currently learning various data science appraoch
 - 💞️ I’m looking to collaborate on relevant projects
 - 📫 message me at samm_bd<symble>yahoo<symble>com
 
